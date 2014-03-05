@@ -1,0 +1,7 @@
+cp /Users/chen4w/Documents/stock_web/app.properties  /Users/chen4w/Documents/clover/stock/web/src/main/resources/app.properties
+
+cp /Users/chen4w/Documents/stock_web/pom.xml  /Users/chen4w/Documents/clover/stock/web/pom.xml
+
+
+cp /Users/chen4w/Documents/stock_web/jetty-web.xml  /Users/chen4w/Documents/clover/stock/web/src/main/webapp/WEB-INF/jetty-web.xml 
+
